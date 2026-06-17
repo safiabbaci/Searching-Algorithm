@@ -111,11 +111,11 @@ Feel free to fork this repository, make improvements, and submit pull requests. 
 ---
 
 ## LinkdIn Post Link
- [Check Here LinkdIn Post By Me](https://www.linkedin.com/posts/safiullah-abbasi-a5b203336_programming-algorithms-binarysearch-activity-7286092502464348161-E9wv?utm_source=share&utm_medium=member_android)
+ [Check Here LinkdIn Post By Me](https://www.linkedin.com/posts/safiabbasi_programming-algorithms-binarysearch-share-7286092501688504320-GTb8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFRkUicBmTmQLPfXcE719Ksj4qlcXsqWCis)
 
 ---
 
 ## **Connect**
 If you found this project useful, let’s connect!
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/safiullah-abbasi-a5b203336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **GitHub**: [Your GitHub Profile](https://github.com/safiabbasi402)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/safiabbasi)
+- **GitHub**: [Your GitHub Profile](https://github.com/safiabbaci)
